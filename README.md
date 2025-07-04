@@ -1,13 +1,13 @@
 # Customer Churn Analysis – Telecom Industry
 
-## 📌 Objective
+## Objective
 Predict customer churn and derive actionable strategies to retain users in a highly competitive telecom environment.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python (Pandas, Scikit-learn, ELI5)
 - Power BI (for interactive dashboards and storytelling)
 
-## 📊 Project Workflow
+## Project Workflow
 
 1. **Data Preprocessing in Python**
    - Cleaned the data (handled missing values, outliers)
@@ -25,13 +25,13 @@ Predict customer churn and derive actionable strategies to retain users in a hig
    - Included charts: Donut (Churn), Bar (Segment), Scatter, Line
    - Exported visuals to PDF and PowerPoint reports
 
-## 📈 Deliverables
+## Deliverables
 - Python ML Notebook
 - Power BI Dashboard
 - PDF and PowerPoint Report
 - Final Recommendations
 
-## ✅ Final Recommendations
+## Final Recommendations
 
 • Encourage customers to switch from month-to-month to one-year contracts to reduce churn.  
 • Customers paying with electronic checks have a higher churn rate. Promote auto-payment options such as credit card or bank transfer.  
